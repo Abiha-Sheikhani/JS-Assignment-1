@@ -1,5 +1,5 @@
 let number = +prompt("Enter your desired Number")
- if(number % 2 == 0){
+ if(number % 2 === 0){
     console.log("Number is even");
     document.write("Number is even");
  }
